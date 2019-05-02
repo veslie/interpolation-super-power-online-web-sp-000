@@ -1,5 +1,5 @@
-def display_rainbow(colors)
-colors = []
+def display_rainbow(color)
+colors = [ ]
  
 
 end 
